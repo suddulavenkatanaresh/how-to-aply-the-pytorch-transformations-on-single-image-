@@ -1,0 +1,1 @@
+# how-to-aply-the-pytorch-transformations-on-single-image-
