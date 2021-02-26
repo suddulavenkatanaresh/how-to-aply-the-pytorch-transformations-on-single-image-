@@ -2,10 +2,7 @@
 
 
 
-# fisr tt load the pytorch packages  and libraries
-import torch.nn as nn
-import torch.nn.functional as F
-import torch.optim as optim
+# fisr  load the pytorch packages  and libraries
 
 
 
